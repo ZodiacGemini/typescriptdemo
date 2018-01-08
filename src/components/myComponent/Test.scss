@@ -1,0 +1,29 @@
+.colorRed {
+    color: green;
+    font-size: 40px;
+    text-align: center;
+}
+
+.bigBlueBox {
+    background-color: red;
+    width:400px;
+    height: 400px;
+}
+
+.anotherThing {
+    background-color: black;
+}
+
+.plus {
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: space-around;
+}

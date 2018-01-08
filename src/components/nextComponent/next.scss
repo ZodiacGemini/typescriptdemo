@@ -1,0 +1,29 @@
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.overAllContainer {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    display: flex;
+    justify-content: center;  
+}
+
+.button {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 20px;
+    height: 40px;
+    width: 50%;
+    color: white;
+    background-color: brown;
+    border: none;
+    box-shadow: 0px 0px 3px 2px grey;
+    font-size: 20px;
+    font-weight: bold;
+}
